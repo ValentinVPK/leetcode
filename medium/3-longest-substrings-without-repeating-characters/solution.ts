@@ -1,3 +1,4 @@
+// Sliding window technique used
 function lengthOfLongestSubstring(s: string): number {
   let left: number = 0;
   let result: number = 0;
